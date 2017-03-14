@@ -33,10 +33,8 @@
                 <version>2.2</version>
                 <configuration>
                         <url>http://localhost:8091/manager/text</url>
-                        <server>mytomcat</server>
-			<username>admin</username>
-			<password>admin</password>
-                        <path>/CounterWebApp</path>
+                       <server>mytomcat</server>
+			 <path>/CounterWebApp</path>
                         
                 </configuration>
           </plugin>
